@@ -1,6 +1,6 @@
-# ToDo Web app
+# Modern Web Application
 
-This ToDo web app is build using React and TailwindCSS. Using this app we can create and delete task;
+This modern web app is build using React and TailwindCSS.
 
 ## Usage
 
