@@ -23,4 +23,4 @@ This modern web app is build using React and TailwindCSS.
 
 ## Below is gif of project
 
-![Alt text](/path?raw=true "Optional Title")
+![Alt text](/images/bank-gif.gif?raw=true "Optional Title")
