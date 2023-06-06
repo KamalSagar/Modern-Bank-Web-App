@@ -1,10 +1,26 @@
-# HooBank - Modern UI/UX website using React.js & Tailwind CSS
+# Modern Web Application
 
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+This modern web app is build using React and TailwindCSS.
 
+## Usage
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+1. Clone the repository to your local machine.
+    ```sh
+    git clone https://github.com/KamalSagar/Modern-Bank-Web-App
+    ```
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+1. Install the required packages.
+    ```sh
+    cd Modern-Bank-Web-App
+    npm install
+    ```
+
+1. Start the development server.
+    ```sh
+    npm start
+    ```
+1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view this project.
+
+## Below is gif of project
+
+![Alt text](/path?raw=true "Optional Title")
